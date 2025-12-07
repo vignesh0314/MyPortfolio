@@ -1,0 +1,52 @@
+.footer {
+background: linear-gradient(135deg, #e0f7fa, #ffffff);
+  padding: 2rem 1rem;
+  text-align: center;
+  position: relative;
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.footer-name {
+  font-size: 1.4rem;
+  color: #00adb5;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.footer-icons a {
+  margin: 0 0.6rem;
+  font-size: 1.5rem;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+  color: #00adb5;
+}
+
+.footer-copy {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 1rem;
+}
+
+.scroll-top {
+  position: absolute;
+  right: 1.5rem;
+  bottom: 1.5rem;
+  background-color: #00adb5;
+  color: #fff;
+  border-radius: 50%;
+  padding: 0.5rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+  transition: background 0.3s;
+}
+
+.scroll-top:hover {
+  background-color: #007b85;
+}
