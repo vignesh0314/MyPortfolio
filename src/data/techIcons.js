@@ -1,0 +1,30 @@
+import {
+  SiReact,
+  SiTailwindcss,
+  SiMysql,
+  SiFlask,
+  SiDjango,
+  SiPostgresql,
+  SiFramer,
+  SiReactrouter,
+  SiPython,
+  SiHtml5,
+  SiCss3,
+  SiPhp,
+} from "react-icons/si";
+
+export const techIcons = {
+  React: SiReact,
+  Tailwind: SiTailwindcss,
+  MySQL: SiMysql,
+  Flask: SiFlask,
+  Django: SiDjango,
+  PostgreSQL: SiPostgresql,
+  ReactNative: SiReact,
+  FramerMotion: SiFramer,
+  ReactRouter: SiReactrouter,
+  Python: SiPython,
+  Html: SiHtml5,
+  Css: SiCss3,
+  Php: SiPhp,
+};
